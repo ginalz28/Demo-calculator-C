@@ -1,0 +1,10 @@
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\bin\Debug\WindowsFormsApp_Cal.exe.config
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\bin\Debug\WindowsFormsApp_Cal.exe
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\bin\Debug\WindowsFormsApp_Cal.pdb
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.csprojAssemblyReference.cache
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.Form1.resources
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.Properties.Resources.resources
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.csproj.GenerateResource.cache
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.exe
+D:\WindowsFormsApp_Cal\WindowsFormsApp_Cal\obj\Debug\WindowsFormsApp_Cal.pdb
